@@ -1,0 +1,16 @@
+body{
+    background-color:goldenrod;
+    background-image: url(graphics/torch.png);
+}
+
+p{
+    color:darkslategrey;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+hr{
+    color: darkslategrey
+    height: 10px;
+    width: 50%;
+}

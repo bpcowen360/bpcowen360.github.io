@@ -1,0 +1,72 @@
+body {
+    background-color: #F5E8CE;
+    font-family: Georgia, serif;
+    color: #294B35;
+}
+
+#header {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #294B35;
+    color: white;
+    width: 850px;
+    padding: 20px;
+}
+
+#intro {
+    position: absolute;
+    top: 160px;
+    left: 30px;
+    width: 800px;
+}
+
+#alliances {
+    position: absolute;
+    top: 310px;
+    left: 30px;
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+}
+
+#idols {
+    position: absolute;
+    top: 310px;
+    left: 450px;
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+}
+
+#challenges {
+    position: absolute;
+    top: 520px;
+    left: 30px;
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+}
+
+#tribal {
+    position: absolute;
+    top: 520px;
+    left: 450px;
+    width: 350px;
+    background-color: white;
+    padding: 15px;
+}
+
+#footer {
+    position: absolute;
+    top: 760px;
+    left: 30px;
+}
+
+a {
+    color: #A15C21;
+}
+
+a:hover {
+    color: #294B35;
+}
