@@ -1,14 +1,14 @@
 body {
     background-color: #F5E8CE;
     font-family: Georgia, serif;
-    color: #294B35;
+    color: black;
 }
 
 #header {
     position: absolute;
     top: 20px;
     left: 20px;
-    background-color: #294B35;
+    background-color: blueviolet;
     color: white;
     width: 850px;
     padding: 20px;
@@ -26,7 +26,7 @@ body {
     top: 310px;
     left: 30px;
     width: 350px;
-    background-color: white;
+    background-color: gray;
     padding: 15px;
 }
 
@@ -35,7 +35,7 @@ body {
     top: 310px;
     left: 450px;
     width: 350px;
-    background-color: white;
+    background-color: yellow;
     padding: 15px;
 }
 
@@ -44,7 +44,7 @@ body {
     top: 520px;
     left: 30px;
     width: 350px;
-    background-color: white;
+    background-color: plum;
     padding: 15px;
 }
 
@@ -64,9 +64,9 @@ body {
 }
 
 a {
-    color: #A15C21;
+    color: lightcoral;
 }
 
 a:hover {
-    color: #294B35;
+    color: blue;
 }
